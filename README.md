@@ -36,7 +36,7 @@
 | [Rulebook/Rulebook_CN.md](./Rulebook/Rulebook_CN.md) | Full rulebook (Chinese) |
 | [Rulebook/Rulebook_EN.md](./Rulebook/Rulebook_EN.md) | Full rulebook (English) |
 | [Registration/](./Registration/) | Registration forms for each qualifier |
-| [Liquipedia/Liquipedia_Page.txt](./Liquipedia/Liquipedia_Page.txt) | Liquipedia import data |
+| []() | Liquipedia import data |
 
 ---
 
